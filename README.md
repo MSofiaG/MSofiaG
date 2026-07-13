@@ -98,18 +98,6 @@ An enterprise-style supermarket management system covering inventory, sales, pur
 
 [🔗 Repository](https://github.com/MSofiaG/caminos-sostenibles) · [🖥️ Demo](#)
 
----
-
-## 📊 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MSofiaG&show_icons=true&theme=default&count_private=true" height="165"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=MSofiaG&theme=default" height="165"/>
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MSofiaG&layout=compact&theme=default" height="165"/>
-</p>
 
 ---
 
