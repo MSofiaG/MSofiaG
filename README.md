@@ -67,7 +67,7 @@ A visual process automation platform (inspired by tools like Zapier/n8n) where u
 
 `React` `Spring Boot` `PostgreSQL` `RabbitMQ` `Docker`
 
-[🔗 Repository](https://github.com/MSofiaG/autoflow) · [🖥️ Demo](#)
+[🔗 Repository](https://github.com/MSofiaG/AutoFlow) 
 
 ---
 
@@ -81,7 +81,7 @@ A fitness tracking platform that helps users monitor workouts, visualize progres
 
 `Java 17` `Spring Boot` `Spring Security` `PostgreSQL` `JWT` `React` `Vite` `Tailwind CSS` `Recharts`
 
-[🔗 Repository](https://github.com/MSofiaG/gymtrack-ai) · [🖥️ Demo](#)
+[🔗 Repository](https://github.com/MSofiaG/GymTrack)
 
 ---
 
@@ -96,7 +96,7 @@ An enterprise-style supermarket management system covering inventory, sales, pur
 
 `Java` `Spring Boot` `React` `PostgreSQL` `Docker`
 
-[🔗 Repository](https://github.com/MSofiaG/caminos-sostenibles) · [🖥️ Demo](#)
+[🔗 Repository](https://github.com/MSofiaG/CaminosSostenibles)
 
 
 ---
