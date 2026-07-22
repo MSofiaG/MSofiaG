@@ -55,6 +55,25 @@
 
 ## 🚀 Featured Projects
 
+### 🏨 Hotel La Fragua — Microservices ERP System <img src="https://img.shields.io/badge/status-in%20construction-yellow?style=flat-square"/>
+Undergraduate thesis project: a microservices-based ERP for hotel operations, where each business module runs as an independent service with its own database. *Built as a team of 3.*
+
+- 🧩 Microservices architecture — 6 independent services, each with its own MySQL database
+- 🔐 Centralized JWT authentication validated across every service
+- 👤 Client management (CRUD, search by email)
+- 🛏️ Room & occupancy management
+- 📅 Reservations with an automatic scheduler, check-in/check-out flow
+- 🧾 Billing & invoicing module
+- 🧑‍💼 Employee management
+- 📄 Interactive API docs per service (FastAPI `/docs`)
+- 🐳 Fully containerized with Docker Compose, hot-reload dev environment
+
+`Python 3.11` `FastAPI` `SQLAlchemy` `MySQL` `JWT` `React 18` `Vite` `Bootstrap 5` `Axios` `Docker`
+
+[🔗 Repository](https://github.com/sofiaaac111/HotelLaFragua)
+
+---
+
 ### ⚙️ AutoFlow — Visual Workflow Automation Platform
 A visual process automation platform (inspired by tools like Zapier/n8n) where users build automation pipelines through an interactive drag-and-drop canvas.
 
